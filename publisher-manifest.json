@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2c200accbcb6267259e5d0be",
+  "owner": "tpgkwnxj3",
+  "repo": "page-4db1154fc97ec45d1977ee1e",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4db1154fc97ec45d1977ee1e",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9cbb8592d5efa274be3732019dbda9e48dbd81ce4cc34a2baf64db4a2f34dd08",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒提供机场订阅与VPN网络加速说明，集中展示使用步骤、适用场景、套餐对比与客户端下载入口，方便按需选择加速方案。",
+          "AI_DESCRIPTION": "魔戒提供机场订阅与VPN网络加速说明，集中展示使用步骤、适用场景、套餐对比与客户端下载入口，方便按需选择加速方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#efeaf5;color:#241833;line-height:1.75;font-size:16px}a{color:#5c3d91}a:hover{text-decoration:underline}.wrap{max-width:860px;margin:0 auto;padding:0 16px}header{background:linear-gradient(180deg,#5c3d91 0%,#6e4aa3 100%);color:#fff;padding:18px 0 26px}header .wrap{display:flex;flex-direction:column;gap:12px}.kicker{font-size:13px;letter-spacing:.14em;opacity:.88}nav{display:flex;flex-wrap:wrap;gap:8px 10px}nav a{color:#fff;text-decoration:none;background:rgba(255,255,255,.14);padding:6px 11px;border-radius:999px;font-size:13px}h1{font-size:1.9rem;line-height:1.28;font-weight:700}header .lead{margin-top:8px;font-size:1rem;max-width:38em;opacity:.96}main{padding:6px 0 42px}section{margin:22px 0}h2{font-size:1.32rem;color:#5c3d91;margin-bottom:10px;padding-bottom:6px;border-bottom:2px solid #e4dced}h3{font-size:1.04rem;margin:12px 0 6px;color:#3b2a57}.panel{background:#fff;border:1px solid #e4dced;border-radius:12px;padding:16px}.muted{color:#5d5368}.steps{display:flex;flex-direction:column;gap:12px}.step{display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid #e4dced;border-radius:12px;padding:14px 14px 14px 16px}.num{flex:0 0 36px;width:36px;height:36px;border-radius:50%;background:#5c3d91;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}.scenes{display:flex;flex-direction:column;gap:10px}.scene{background:#f7f3fb;border-left:4px solid #7a52b8;padding:12px 14px;border-radius:0 10px 10px 0}.plans-wrap{background:#f8f4fc;border:2px solid #5c3d91;border-radius:14px;padding:16px}.plans-wrap h2{border-bottom-color:#5c3d91;color:#3f2a66}details{background:#fff;border:1px solid #e4dced;border-radius:10px;padding:10px 14px;margin:8px 0}summary{font-weight:650;color:#3a2758;cursor:pointer}details p{margin-top:8px;color:#5d5368}footer{background:#2d2140;color:#ddd4ea;padding:22px 0;font-size:13px}.note{font-size:13px;color:#5d5368;margin-top:8px}ol.dir{margin:8px 0 0 18px}ol.dir li{margin:4px 0}@media(min-width:720px){h1{font-size:2.15rem}.step{padding:18px}}</style><header><div class=\"wrap\"><p class=\"kicker\">机场订阅 · VPN 加速</p><nav><a href=\"#intro\">简介</a><a href=\"#steps\">使用步骤</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐对比</a><a href=\"#clients\">客户端</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav><h1>魔戒</h1><p class=\"lead\">魔戒机场与魔戒 VPN 的说明主页：用纵向步骤讲清订阅、导入与连接，并把套餐对比放在决策中心，方便对照后再下载客户端。</p></div></header><main><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><div class=\"panel\"><p>魔戒把跨境访问收成一条清楚路径：先按流量和设备数量选套餐，再把机场订阅导入客户端，即可作为日常网络加速工具使用。对本页而言，魔戒机场、魔戒 VPN 指的是同一套「订阅 + 客户端」用法，而不是另一套需要单独注册的品牌。</p><p class=\"muted\">本页聚焦方法、场景与套餐结构。线路细节、节点名单和活动以你订阅后实际看到的面板为准，正文不编造评测或下载镜像。</p><h3>本页目录</h3><ol class=\"dir\"><li>按步骤完成订阅与导入</li><li>对照个人或团队使用场景</li><li>进入套餐对比模块做选择</li><li>在客户端区域获取对应软件</li><li>查阅操作说明与常见问题</li></ol></div></section><section id=\"steps\"><h2>使用步骤</h2><div class=\"steps\"><article class=\"step\"><div class=\"num\">1</div><div><h3>阅读服务范围</h3><p>确认魔戒提供的是机场订阅型网络加速：适合需要稳定访问境外公开内容、远程协作或切换网络路径的用户，而不是本地宽带改造。</p></div></article><article class=\"step\"><div class=\"num\">2</div><div><h3>对照套餐再订阅</h3><p>打开套餐对比，优先看月流量是否覆盖使用习惯，其次看同时在线设备数，最后看支持方式。价格与权益以对比模块为准，不要凭记忆下单。</p></div></article><article class=\"step\"><div class=\"num\">3</div><div><h3>获取订阅凭证</h3><p>订阅完成后，在账户或面板中复制订阅链接。这是后续所有客户端共用的配置来源，请妥善保存，不要随意公开发布。</p></div></article><article class=\"step\"><div class=\"num\">4</div><div><h3>下载并导入客户端</h3><p>到本页客户端区域选择系统对应软件，安装后使用「订阅 URL 导入」或同等功能粘贴链接。不同客户端菜单名称略有差异，但流程一致。</p></div></article><article class=\"step\"><div class=\"num\">5</div><div><h3>连接后按场景切换</h3><p>完成导入后选择节点并连接，用浏览器或目标 App 验证。办公、流媒体或游戏可按延迟与稳定性自行切换，遇到失败先按常见问题逐项排查。</p></div></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scenes\"><article class=\"scene\"><h3>远程协作与跨境办公</h3><p>开会、同步文档、登录海外工作台时，用魔戒 VPN 把流量走订阅线路，减少页面打不开或会议卡顿带来的中断。</p></article><article class=\"scene\"><h3>资料检索与开发查阅</h3><p>阅读公开文档、代码托管页面或学术资料时，机场订阅可提供更连贯的访问路径，适合需要反复打开外链的学习与开发节奏。</p></article><article class=\"scene\"><h3>流媒体与内容浏览</h3><p>观看或收听海外公开内容前，先连接再打开应用。能否播放取决于套餐说明与当时线路，本页不承诺具体片源或解锁清单。</p></article><article class=\"scene\"><h3>差旅中的网络切换</h3><p>酒店、展会或公共 Wi-Fi 环境下，可用客户端快速改走订阅节点，把常用邮箱、网盘和通讯软件保持在可访问状态。</p></article><article class=\"scene\"><h3>小团队共用</h3><p>多人需要同一套出口策略时，按设备上限选择档位，由一人管理订阅、其他人导入客户端，避免各自寻找来路不明的配置。</p></article></div></section><section id=\"plans\"><div class=\"plans-wrap\"><h2>套餐对比</h2><p>套餐对比是本页重点。个人使用者先锁定流量和设备数是否够用；对工单响应、专线或多人共用有要求时，再看更高档位说明。下列模块由系统注入，正文不重复报价或改写数值。</p><p class=\"note\">对照顺序建议：流量 → 同时在线设备 → 是否需要优先支持。选定后再回到步骤 3 复制订阅。</p>{{PLANS_HTML}}</div></section><section id=\"clients\"><h2>客户端下载</h2><div class=\"panel\"><p>魔戒的机场订阅需要配合客户端才能连接。请从下方模块选择你的系统，完成官方下载后再导入订阅。不要从来源不明的网盘或论坛获取安装包。</p><p class=\"muted\">电脑、手机通常可共用同一订阅，只需注意套餐里的设备上限。</p>{{CLIENTS_HTML}}</div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"panel\"><h3>导入订阅</h3><p>打开客户端的订阅或配置页，粘贴面板中的链接并更新。若客户端支持二维码，也可以用手机扫描电脑上的订阅码。导入成功后应能看到节点列表。</p><h3>连接与日常使用</h3><p>选择一个节点后开启连接，再访问目标网站验证。建议把系统代理模式保持为规则或自动，避免把所有本地流量无差别送出。更换网络环境后若变慢，可手动切换节点。</p><h3>设备与流量注意</h3><p>同时在线设备达到上限时，需要先在一台设备上断开，再在另一台连接。流量统计以面板为准；接近用尽时应减少大文件传输或等待下一计费周期，而不是反复重装客户端。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>魔戒是什么？</summary><p>魔戒是机场订阅型网络加速服务的品牌入口。用户通过套餐获得订阅，再在客户端里导入后连接。本页同时覆盖魔戒机场与魔戒 VPN 的用法说明，方便对照套餐和客户端下载。</p></details><details><summary>没有网络技术基础可以上手吗？</summary><p>可以。按本页步骤即可：先读简介，再对比套餐完成订阅，接着在客户端区域选择系统并导入链接，最后连接验证。图形化客户端一般都提供从 URL 导入的入口。</p></details><details><summary>魔戒适合哪些使用场景？</summary><p>适合需要访问境外公开网站、远程协作、查阅资料、浏览海外内容，或在差旅中切换网络路径的个人与小团队。实际体验随当地网络变化，请以连接结果为准。</p></details><details><summary>订阅和客户端是什么关系？</summary><p>订阅是权限与节点配置的来源，客户端是把订阅落地到设备上的软件。没有订阅，客户端无法获得可用配置；没有客户端，订阅只是一串无法单独生效的链接。</p></details><details><summary>如何选择套餐？</summary><p>轻度个人使用优先确认月流量和设备台数。需要更及时的支持、更高带宽策略或多人共用时，再对照更高档位。具体价格与条目以套餐对比模块展示为准，正文不另行引用。</p></details><details><summary>多台设备怎么共用一条订阅？</summary><p>把同一订阅导入多台设备即可，但不要超过套餐写明的同时在线上限。超出后通常要先下线一台。也不要把订阅发到无法管理的群组，以免流量被占用或配置被改掉。</p></details><details><summary>连接失败时先检查什么？</summary><p>先确认订阅有效且流量未耗尽，再检查设备时间是否准确、客户端是否为当前版本，并尝试更换节点或协议。若仍失败，通过套餐对应的支持方式说明系统和报错信息。</p></details></section></div></main><footer><div class=\"wrap\"><p>魔戒官网页面用于说明机场订阅、VPN 网络加速与客户端下载路径。套餐与客户端模块由系统统一注入。</p><p>导航仅使用页内锚点。使用前请遵守当地法律法规与目标网站条款。</p></div></footer>",
+          "hash": "71bc5dea9e6e988b51a06857d7bf583c5c856c6300034a757c5f497ea318f9bd",
+          "seo": {
+            "title": "魔戒官网｜VPN梯子网络加速、加速器与客户端下载",
+            "keywords": "魔戒,魔戒机场,魔戒VPN,魔戒官网,魔戒下载,VPN,梯子,网络加速,加速器,机场订阅,客户端下载,官方网站",
+            "description": "魔戒提供机场订阅与VPN网络加速说明，集中展示使用步骤、适用场景、套餐对比与客户端下载入口，方便按需选择加速方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jpxkfxz.cn",
+    "host": "web.jpxkfxz.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "jpxkfxz.cn",
+      "url": "https://jpxkfxz.cn/",
+      "label": "渡口(Dukou)",
+      "apex": "jpxkfxz.cn",
+      "kind": null,
+      "identity": "fcak4dfp/page-1a97edf4e6a2592bf558a2cc"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6c9c8142a03945374f3ac6ea602d44cf527c062aee056ad5f125d81e1460d522",
+    "sitemap.xml": "f04e66fdd99bff75c1596d9a8e72dbb94b8f214f88418cfcbafad1e4f8633faf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "214f9e11192c156a970c818c8adc15fc7f0a4b0ca4fac74a9018a8bade14ff40",
+    "robots.txt": "4dc58263cb0e54746d2717e1abc9b90bd420300f8298fa0bb0dac5aae99fc945",
+    "f85a99cdf41670b92cd8b8bb86b13e83.txt": "8e2b4940a0d42bfee1612c5f39814b34daad94fce56b6f612936f8e5690c0788"
+  },
+  "revision": "5bb90b322ed6b9ac4784b0637af04c1cb6ab35ba8972c47a3cc2d96c2476edff"
+}
